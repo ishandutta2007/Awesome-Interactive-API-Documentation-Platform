@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Interactive-API-Documentation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-API-Documentation-Platform?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-API-Documentation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-API-Documentation-Platform?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-API-Documentation-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-API-Documentation-Platform?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-API-Documentation-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,96 +64,96 @@ Below is a detailed breakdown of top commercial SaaS and hosted interactive API 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source frameworks, specification parsers, static site documentation generators, and embedded API playgrounds — sorted in descending order by GitHub Stars ⭐.
+Curated list of open-source frameworks, specification parsers, static site documentation generators, and embedded API playgrounds — sorted in descending order by GitHub_Stars ⭐.
 
-- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) ⚡  
+- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub_Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) ⚡  
   Open-source API development ecosystem, testing suite, and real-time interactive documentation explorer serving as an offline-first, lightweight alternative to Postman.
 
-- **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers) 🦖  
+- **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers) 🦖  
   Popular open-source static site generator by Meta widely extended with OpenAPI plugins (`docusaurus-plugin-openapi-docs`) for building responsive interactive developer portals.
 
-- **[Bruno](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers) 🐶  
+- **[Bruno](https://github.com/usebruno/bruno)** [![GitHub_Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers) 🐶  
   Fast, Git-friendly open-source API client and documentation explorer that stores collections directly in your repo as plain-text files.
 
-- **[Insomnia](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers) 🌙  
+- **[Insomnia](https://github.com/Kong/insomnia)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers) 🌙  
   Leading open-source API design, debugging, and mock client platform with native OpenAPI specification preview and developer document generation.
 
-- **[Backstage API Docs (by Spotify)](https://github.com/spotify/backstage)** [![GitHub stars](https://img.shields.io/github/stars/spotify/backstage?style=social&color=white)](https://github.com/spotify/backstage/stargazers) 🎧  
+- **[Backstage API Docs (by Spotify)](https://github.com/spotify/backstage)** [![GitHub_Stars](https://img.shields.io/github/stars/spotify/backstage?style=social&color=white)](https://github.com/spotify/backstage/stargazers) 🎧  
   Open-source developer portal platform created by Spotify for centralizing OpenAPI, AsyncAPI, and gRPC specifications across microservice catalogs.
 
-- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) 📜  
+- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) 📜  
   Industry-standard open-source renderer that dynamically parses OpenAPI/Swagger specifications into interactive HTML/JS consoles with live "Try It Out" execution.
 
-- **[MkDocs Material](https://github.com/squidfunk/mkdocs-material)** [![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers) 📚  
+- **[MkDocs Material](https://github.com/squidfunk/mkdocs-material)** [![GitHub_Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers) 📚  
   Feature-rich open-source Python documentation framework supporting OpenAPI and Swagger plugins (`mkdocs-render-swagger-plugin`) for technical and API docs.
 
-- **[OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) ⚙️  
+- **[OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) ⚙️  
   Community-driven open-source engine generating API client SDKs in 50+ programming languages, server stubs, and static HTML/Markdown documentation from OpenAPI specs.
 
-- **[Redoc](https://github.com/Redocly/redoc)** [![GitHub stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) 📑  
+- **[Redoc](https://github.com/Redocly/redoc)** [![GitHub_Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) 📑  
   Open-source, three-panel OpenAPI/Swagger-generated reference documentation engine recognized for clean typography, deep nesting support, and zero-dependency deployment.
 
-- **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers) ⚡  
+- **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub_Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers) ⚡  
   Vue-powered open-source static site generator frequently paired with `vitepress-openapi` for lightning-fast interactive API documentation sites.
 
-- **[GraphiQL](https://github.com/graphql/graphiql)** [![GitHub stars](https://img.shields.io/github/stars/graphql/graphiql?style=social&color=white)](https://github.com/graphql/graphiql/stargazers) 🔮  
+- **[GraphiQL](https://github.com/graphql/graphiql)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql/graphiql?style=social&color=white)](https://github.com/graphql/graphiql/stargazers) 🔮  
   Official open-source in-browser IDE and interactive documentation explorer for GraphQL APIs featuring full schema introspection, history, and autocomplete.
 
-- **[Scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) 🌐  
+- **[Scalar](https://github.com/scalar/scalar)** [![GitHub_Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) 🌐  
   Modern, open-source interactive API documentation renderer and offline-first API client built for OpenAPI 3.0/3.1 and Swagger 2.0 specifications.
 
-- **[Nextra](https://github.com/shuding/nextra)** [![GitHub stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers) ⚛️  
+- **[Nextra](https://github.com/shuding/nextra)** [![GitHub_Stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers) ⚛️  
   Next.js and MDX-based open-source documentation framework ideal for building custom developer portals with embedded interactive API sandboxes and code playgrounds.
 
-- **[Fumadocs](https://github.com/fuma-nama/fumadocs)** [![GitHub stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers) 📖  
+- **[Fumadocs](https://github.com/fuma-nama/fumadocs)** [![GitHub_Stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers) 📖  
   Modern open-source Next.js documentation framework featuring built-in OpenAPI playground generation, TypeScript twoslash, and full-text search.
 
-- **[Starlight (by Astro)](https://github.com/withastro/starlight)** [![GitHub stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers) ⭐  
+- **[Starlight (by Astro)](https://github.com/withastro/starlight)** [![GitHub_Stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers) ⭐  
   High-performance open-source documentation theme built on Astro, supporting `starlight-openapi` for blazing-fast interactive API reference pages.
 
-- **[Swagger Editor](https://github.com/swagger-api/swagger-editor)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-editor?style=social&color=white)](https://github.com/swagger-api/swagger-editor/stargazers) ✏️  
+- **[Swagger Editor](https://github.com/swagger-api/swagger-editor)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-editor?style=social&color=white)](https://github.com/swagger-api/swagger-editor/stargazers) ✏️  
   Browser-based open-source editor where you can write, edit, and visually preview OpenAPI descriptions with live real-time validation.
 
-- **[GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager)** [![GitHub stars](https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social&color=white)](https://github.com/APIs-guru/graphql-voyager/stargazers) 🛰️  
+- **[GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager)** [![GitHub_Stars](https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social&color=white)](https://github.com/APIs-guru/graphql-voyager/stargazers) 🛰️  
   Open-source interactive visual graph representation tool that renders any GraphQL API schema as an interactive, navigable node diagram.
 
-- **[Swagger Core](https://github.com/swagger-api/swagger-core)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-core?style=social&color=white)](https://github.com/swagger-api/swagger-core/stargazers) ☕  
+- **[Swagger Core](https://github.com/swagger-api/swagger-core)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-core?style=social&color=white)](https://github.com/swagger-api/swagger-core/stargazers) ☕  
   The Java and JVM implementation of the OpenAPI Specification providing runtime annotations to generate live OpenAPI specifications.
 
-- **[gRPC UI](https://github.com/fullstorydev/grpcui)** [![GitHub stars](https://img.shields.io/github/stars/fullstorydev/grpcui?style=social&color=white)](https://github.com/fullstorydev/grpcui/stargazers) 📡  
+- **[gRPC UI](https://github.com/fullstorydev/grpcui)** [![GitHub_Stars](https://img.shields.io/github/stars/fullstorydev/grpcui?style=social&color=white)](https://github.com/fullstorydev/grpcui/stargazers) 📡  
   Interactive web UI for gRPC services that acts like Postman or Swagger UI by dynamically inspecting server reflection schemas.
 
-- **[Prism (by Stoplight)](https://github.com/stoplightio/prism)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers) 🎭  
+- **[Prism (by Stoplight)](https://github.com/stoplightio/prism)** [![GitHub_Stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers) 🎭  
   Open-source HTTP mock and contract validation proxy server that powers realistic interactive examples directly from OpenAPI specifications.
 
-- **[Fern Open-Source CLI](https://github.com/fern-api/fern)** [![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers) 🌿  
+- **[Fern Open-Source CLI](https://github.com/fern-api/fern)** [![GitHub_Stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers) 🌿  
   Open-source toolkit for defining APIs, validating OpenAPI specs, and generating idiomatic client SDKs and documentation artifacts.
 
-- **[Kin-OpenAPI](https://github.com/getkin/kin-openapi)** [![GitHub stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=social&color=white)](https://github.com/getkin/kin-openapi/stargazers) 🐹  
+- **[Kin-OpenAPI](https://github.com/getkin/kin-openapi)** [![GitHub_Stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=social&color=white)](https://github.com/getkin/kin-openapi/stargazers) 🐹  
   Popular Go package for loading, parsing, validating, and generating OpenAPI 3.0 and 3.1 specifications.
 
-- **[Spectral (by Stoplight)](https://github.com/stoplightio/spectral)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/spectral?style=social&color=white)](https://github.com/stoplightio/spectral/stargazers) 🔍  
+- **[Spectral (by Stoplight)](https://github.com/stoplightio/spectral)** [![GitHub_Stars](https://img.shields.io/github/stars/stoplightio/spectral?style=social&color=white)](https://github.com/stoplightio/spectral/stargazers) 🔍  
   Flexible open-source JSON/YAML linter with out-of-the-box style rulesets for validating OpenAPI and AsyncAPI specifications prior to doc publication.
 
-- **[Elements (by Stoplight)](https://github.com/stoplightio/elements)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/elements?style=social&color=white)](https://github.com/stoplightio/elements/stargazers) 🧩  
+- **[Elements (by Stoplight)](https://github.com/stoplightio/elements)** [![GitHub_Stars](https://img.shields.io/github/stars/stoplightio/elements?style=social&color=white)](https://github.com/stoplightio/elements/stargazers) 🧩  
   Embeddable open-source web components and React library for rendering interactive OpenAPI documentation, code samples, and "Try It" consoles.
 
-- **[RapiDoc](https://github.com/rapi-doc/RapiDoc)** [![GitHub stars](https://img.shields.io/github/stars/rapi-doc/RapiDoc?style=social&color=white)](https://github.com/rapi-doc/RapiDoc/stargazers) 🚀  
+- **[RapiDoc](https://github.com/rapi-doc/RapiDoc)** [![GitHub_Stars](https://img.shields.io/github/stars/rapi-doc/RapiDoc?style=social&color=white)](https://github.com/rapi-doc/RapiDoc/stargazers) 🚀  
   Lightweight, customizable open-source web component for viewing OpenAPI 3.0/3.1 specifications with built-in request execution and customizable themes.
 
-- **[oasdiff](https://github.com/Tufin/oasdiff)** [![GitHub stars](https://img.shields.io/github/stars/Tufin/oasdiff?style=social&color=white)](https://github.com/Tufin/oasdiff/stargazers) 🔍  
+- **[oasdiff](https://github.com/Tufin/oasdiff)** [![GitHub_Stars](https://img.shields.io/github/stars/Tufin/oasdiff?style=social&color=white)](https://github.com/Tufin/oasdiff/stargazers) 🔍  
   Open-source Go-based diffing tool for OpenAPI specifications to detect breaking changes and automatically generate interactive changelogs.
 
-- **[SpectaQL](https://github.com/anvilco/spectaql)** [![GitHub stars](https://img.shields.io/github/stars/anvilco/spectaql?style=social&color=white)](https://github.com/anvilco/spectaql/stargazers) 💡  
+- **[SpectaQL](https://github.com/anvilco/spectaql)** [![GitHub_Stars](https://img.shields.io/github/stars/anvilco/spectaql?style=social&color=white)](https://github.com/anvilco/spectaql/stargazers) 💡  
   Open-source static documentation generator specifically engineered to produce clean, single-page interactive GraphQL API documentation.
 
-- **[Docusaurus OpenAPI Docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs)** [![GitHub stars](https://img.shields.io/github/stars/PaloAltoNetworks/docusaurus-openapi-docs?style=social&color=white)](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/stargazers) 🦖  
+- **[Docusaurus OpenAPI Docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs)** [![GitHub_Stars](https://img.shields.io/github/stars/PaloAltoNetworks/docusaurus-openapi-docs?style=social&color=white)](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/stargazers) 🦖  
   Open-source Docusaurus plugin that generates rich, interactive OpenAPI documentation with live code playground execution.
 
-- **[AsyncAPI Generator](https://github.com/asyncapi/generator)** [![GitHub stars](https://img.shields.io/github/stars/asyncapi/generator?style=social&color=white)](https://github.com/asyncapi/generator/stargazers) 🔄  
+- **[AsyncAPI Generator](https://github.com/asyncapi/generator)** [![GitHub_Stars](https://img.shields.io/github/stars/asyncapi/generator?style=social&color=white)](https://github.com/asyncapi/generator/stargazers) 🔄  
   Open-source CLI and templating engine to generate interactive documentation, markdown pages, and client code from AsyncAPI specifications.
 
-- **[AsyncAPI Studio](https://github.com/asyncapi/studio)** [![GitHub stars](https://img.shields.io/github/stars/asyncapi/studio?style=social&color=white)](https://github.com/asyncapi/studio/stargazers) 📻  
+- **[AsyncAPI Studio](https://github.com/asyncapi/studio)** [![GitHub_Stars](https://img.shields.io/github/stars/asyncapi/studio?style=social&color=white)](https://github.com/asyncapi/studio/stargazers) 📻  
   Open-source interactive playground and browser studio for designing, testing, and documenting event-driven APIs (Kafka, MQTT, WebSockets, AMQP).
 
 ---
@@ -164,7 +164,7 @@ Contributions make the open-source community thrive! To add or update an entry:
 
 1. 🍴 **Fork the repo.**
 2. ✍️ **Add or edit entries in `README.md`** (follow existing tabular and list formats).
-3. 📝 **Include details**: Tool name, link, 1–2 sentence description, pricing/scale for SaaS, or star badges for open-source repositories.
+3. 📝 **Include details**: Tool name, link, 1–2 sentence description, pricing/scale for SaaS, or Stars_Badges for open-source repositories.
 4. 🚀 **Submit a Pull Request (PR)** with a concise summary of changes.
 
 Don't forget to ⭐ star the repository if you find it helpful!
